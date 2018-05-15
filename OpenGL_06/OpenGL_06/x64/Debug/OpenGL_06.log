@@ -1,0 +1,4 @@
+﻿  wjg.cpp
+c:\c++practice\opengl_06\opengl_06\wjg.cpp(77): warning C4267: “=”: 从“size_t”转换到“GLint”，可能丢失数据
+  OpenGL_06.vcxproj -> C:\c++Practice\OpenGL_06\x64\Debug\OpenGL_06.exe
+  OpenGL_06.vcxproj -> C:\c++Practice\OpenGL_06\x64\Debug\OpenGL_06.pdb (Partial PDB)

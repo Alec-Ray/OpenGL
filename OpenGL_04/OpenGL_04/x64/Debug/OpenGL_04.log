@@ -1,0 +1,2 @@
+﻿wjg.obj : error LNK2019: 无法解析的外部符号 "bool __cdecl ReadFile(char const *,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > &)" (?ReadFile@@YA_NPEBDAEAV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z)，该符号在函数 "void __cdecl CompileShaders(void)" (?CompileShaders@@YAXXZ) 中被引用
+C:\c++Practice\OpenGL_04\x64\Debug\OpenGL_04.exe : fatal error LNK1120: 1 个无法解析的外部命令
